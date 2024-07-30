@@ -43,7 +43,7 @@ starter packages
 </dependency>
 ```
 
-1. application.yml 설정
+2. application.yml 설정
 
 ```yaml
 spring:
@@ -55,7 +55,7 @@ spring:
             suffix: .jsp
 ```
 
-1. jsp 파일 작성.
+3. jsp 파일 작성.
 
 src/main/webapp/WEB-INF/jsp/hello.jsp
 
