@@ -1,10 +1,10 @@
-package com.ramramv.ipecs;
+package com.ramramv.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class IpecsApplicationTests {
+class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
