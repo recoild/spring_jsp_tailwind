@@ -4,7 +4,7 @@
     <img src="images/image.png" alt="wow">
 </div>
 
-## spring boot 3 프로젝트 생성
+## Spring Boot 3 프로젝트 생성
 
 starter packages
 
