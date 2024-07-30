@@ -26,7 +26,7 @@ starter packages
 </dependency>
 ```
 
-### JSP세팅
+## JSP세팅
 
 1. pom.xml 설정
 
@@ -95,7 +95,7 @@ Cool Tailwind Button
 </html>
 ```
 
-### tailwind 세팅
+## tailwind 세팅
 
 루트 디렉토리에서 명령어 실행
 
@@ -180,7 +180,7 @@ pom.xml에 build 태그 밑에 plugin을 추가. 이 plugin은 프로젝트 실�
 	</plugin>
 ```
 
-### 이후 작업 순서
+## 이후 작업 순서
 
 프로젝트를 실행하고(vs code를 예로 들면 F5를 눌러 실행), terminal을 따로 띄워서 루트 디렉토리에서 npm run watch를 실행한다. 이후 jsp에 tailwind css 를 작성하고 저장하면 자동으로 tailwind가 빌드된다.
 
