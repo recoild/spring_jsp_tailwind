@@ -1,6 +1,6 @@
 # Spring boot 3 + legacy JSP + tailwind css
 
-<div style="text-align: center;">
+<div>
     <img src="images/image.png" alt="wow">
 </div>
 
