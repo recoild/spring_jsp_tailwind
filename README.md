@@ -32,8 +32,8 @@ starter packages
 
 ```xml
 <dependency>
-			<groupId>org.apache.tomcat.embed</groupId>
-			<artifactId>tomcat-embed-jasper</artifactId>
+	<groupId>org.apache.tomcat.embed</groupId>
+	<artifactId>tomcat-embed-jasper</artifactId>
 </dependency>
 <dependency>
 	<groupId>javax.servlet</groupId>
