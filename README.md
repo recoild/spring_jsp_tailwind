@@ -57,7 +57,10 @@ spring:
 
 3. jsp 파일 작성.
 
+디렉토리
+```
 src/main/webapp/WEB-INF/jsp/hello.jsp
+```
 
 ```yaml
 <%@ page language="java" contentType="text/html; charset=UTF-8"
