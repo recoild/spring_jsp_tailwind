@@ -118,6 +118,13 @@ module.exports = {
 };
 ```
 
+tailwind.css 파일을 생성하고 내용 추가
+```
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+
 package.json파일의 scripts부분에 명령어 추가
 
 ```jsx
