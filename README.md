@@ -103,6 +103,7 @@ Cool Tailwind Button
 npm init -y
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
+npm i postcss-cli
 ```
 
 생성된 tailwind.config.js 의 content부분을 수정
